@@ -31,7 +31,9 @@ Abaixo, cada análise está estruturada com a questão escolhida, a visualizaç�
 
 **Visualização:**
 
-![Gráfico: Volume por Categoria](caminho/para/imagem1.png)
+![Gráfico: Volume por Categoria](Gráficos/grafico-1a.png)
+
+![Gráfico: Volume por Categoria](Gráficos/grafico-1b.png)
 
 **Interpretação:**
 
@@ -64,7 +66,7 @@ Este estudo explora os picos de faturamento e volume de vendas, identificando pa
 
 **Visualização:**
 
-![Gráfico: Prazo de Entrega](caminho/para/imagem2.png)
+![Gráfico: Volume por Categoria](Gráficos/grafico-2a.png)
 
 **Interpretação:**
 
@@ -111,7 +113,9 @@ Logo o objetivo definido foi avaliar como o tempo que um pedido leva para ser en
 
 **Visualização:**
 
-![Gráfico: Satisfação x Atraso](caminho/para/imagem3.png)
+![Gráfico: Volume por Categoria](Gráficos/grafico-3a.png)
+
+![Gráfico: Volume por Categoria](Gráficos/grafico-3b.png)
 
 **Interpretação:**
 
@@ -133,7 +137,9 @@ Para identificar o desempenho por categoria, foi calculado a média das avaliaç
 
 **Visualização:**
 
-![Gráfico: Lucratividade por Categoria](caminho/para/imagem4.png)
+![Gráfico: Volume por Categoria](Gráficos/grafico-4a.png)
+
+![Gráfico: Volume por Categoria](Gráficos/grafico-4b.png)
 
 **Interpretação:**
 
@@ -156,7 +162,9 @@ Diante dessa limitação, criei a Questão realizando algumas suposições:
 
 **Visualização:**
 
-![Gráfico: Conversão por Fonte](caminho/para/imagem5.png)
+![Gráfico: Volume por Categoria](Gráficos/grafico-5a.png)
+
+![Gráfico: Volume por Categoria](Gráficos/grafico-5b.png)
 
 **Interpretação:**
 
