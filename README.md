@@ -70,7 +70,7 @@ Este estudo explora os picos de faturamento e volume de vendas, identificando pa
 
 **Interpretação:**
 
-## Análise de Desempenho das Entregas (Tempo de Entrega vs. Satisfação do Cliente):
+## Análise de Desempenho das Entregas (Tempo de Entrega vs. Satisfação do Cliente)
 
 Pela falta de dados, não foi possível analisar diferentes transportadoras.
 
@@ -78,7 +78,7 @@ Logo o objetivo definido foi avaliar como o tempo que um pedido leva para ser en
 
 ---
 
-### A análise das estatísticas de tempo de entrega (em dias) agrupadas por nota de avaliação revela os seguintes padrões::
+### A análise das estatísticas de tempo de entrega (em dias) agrupadas por nota de avaliação revela os seguintes padrões:
 
 * **Nota do Cliente: 5 (Alta Satisfação):**
 * Tempo Médio de Entrega: O menor.
