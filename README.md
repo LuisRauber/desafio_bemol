@@ -27,7 +27,9 @@ Abaixo, cada análise está estruturada com a questão escolhida, a visualizaç�
 
 ### 2.1 Análise de Performance de Vendas
 
-**Questão escolhida:** 1- B) Análise de Sazonalidade: Investigar padrões de sazonalidade nas vendas, identificando os períodos do ano com maior volume de vendas.
+**Questão escolhida:**
+
+1- B) Análise de Sazonalidade: Investigar padrões de sazonalidade nas vendas, identificando os períodos do ano com maior volume de vendas.
 
 **Visualização:**
 
@@ -62,7 +64,9 @@ Este estudo explora os picos de faturamento e volume de vendas, identificando pa
 
 ### 2.2 Análise de Logística
 
-**Questão escolhida:** 2- B) Desempenho de Transportadoras: Avaliar o desempenho de diferentes transportadoras com base no tempo de entrega e na satisfação do cliente.
+**Questão escolhida:**
+
+2- B) Desempenho de Transportadoras: Avaliar o desempenho de diferentes transportadoras com base no tempo de entrega e na satisfação do cliente.
 
 **Visualização:**
 
@@ -80,27 +84,27 @@ Logo o objetivo definido foi avaliar como o tempo que um pedido leva para ser en
 
 ### A análise das estatísticas de tempo de entrega (em dias) agrupadas por nota de avaliação revela os seguintes padrões:
 
-* **Nota do Cliente: 5 (Alta Satisfação):**
+**Nota do Cliente: 5 (Alta Satisfação):**
 * Tempo Médio de Entrega: O menor.
 * Tempo Mediano de Entrega: O menor, indicando que a maioria das entregas muito bem avaliadas é rápida.
 * Variação do Tempo de Entrega: Baixa, com um desvio padrão pequeno, mostrando consistência nos prazos para entregas com alta satisfação.
   
-* **Nota do Cliente: 4 (Boa Satisfação):**
+**Nota do Cliente: 4 (Boa Satisfação):**
 * Tempo Médio de Entrega: Ligeiramente maior que para a nota 5.
 * Tempo Mediano de Entrega: Ligeiramente maior que para a nota 5.
 * Variação do Tempo de Entrega: Ainda relativamente baixa, mas pode apresentar uma leve variação a mais que a nota 5.
 
-* **Nota do Cliente: 3 (Satisfação Neutra/Média):**
+**Nota do Cliente: 3 (Satisfação Neutra/Média):**
 * Tempo Médio de Entrega: Notavelmente maior que para notas 4 e 5.
 * Tempo Mediano de Entrega: Notavelmente maior.
 * Variação do Tempo de Entrega: Pode começar a mostrar um desvio padrão um pouco maior, indicando mais inconsistência.
 
-* **Nota do Cliente: 2 (Baixa Satisfação):**
+**Nota do Cliente: 2 (Baixa Satisfação):**
 * Tempo Médio de Entrega: Significativamente mais alto.
 * Tempo Mediano de Entrega: Significativamente mais alto.
 * Variação do Tempo de Entrega: Geralmente, um desvio padrão maior, sugerindo entregas mais lentas e imprevisíveis.
 
-* **Nota do Cliente: 1 (Pior Satisfação):**
+**Nota do Cliente: 1 (Pior Satisfação):**
 * Tempo Médio de Entrega: O maior de todos.
 * Tempo Mediano de Entrega: O maior de todos, refletindo que os clientes mais insatisfeitos recebem seus pedidos com os prazos mais longos.
 * Variação do Tempo de Entrega: Frequentemente, o maior desvio padrão, o que significa que além de lentas, essas entregas têm a maior inconsistência e podem incluir atrasos extremos (visualizados como "outliers" no Box Plot).
@@ -109,7 +113,9 @@ Logo o objetivo definido foi avaliar como o tempo que um pedido leva para ser en
 
 ### 2.3 Análise de Satisfação do Cliente
 
-**Questão escolhida:** 3- A) Avaliações de Produtos: Analisar a distribuição das avaliações dos produtos e identificar os produtos com as melhores e piores avaliações.
+**Questão escolhida:**
+
+3- A) Avaliações de Produtos: Analisar a distribuição das avaliações dos produtos e identificar os produtos com as melhores e piores avaliações.
 
 **Visualização:**
 
@@ -133,7 +139,9 @@ Para identificar o desempenho por categoria, foi calculado a média das avaliaç
 
 ### 2.4 Financeiro
 
-**Questão escolhida:** 4- A) Análise de Lucratividade por Categoria: Calcular a lucratividade de diferentes categorias de produtos, levando em conta o custo dos produtos e o preço de venda
+**Questão escolhida:**
+
+4- A) Análise de Lucratividade por Categoria: Calcular a lucratividade de diferentes categorias de produtos, levando em conta o custo dos produtos e o preço de venda
 
 **Visualização:**
 
@@ -150,7 +158,9 @@ Ao abordar a "Análise de Lucratividade por Categoria" (Questão 4.a), o objetiv
 ### 2.5 Marketing
 
 **Questões Disponíveis:**
+
 5- A) Análise de Conversão de Vendas: Estudar a taxa de conversão de vendas com base em diferentes fontes de tráfego (orgânico, pago, social, etc.)
+
 5- B) Eficácia de Campanhas Promocionais: Avaliar o impacto de campanhas promocionais e descontos no volume de vendas e na aquisição de novos clientes.
 
 **Problemas Enfretados:**
@@ -158,7 +168,8 @@ No Tópico 5, "Análise de Marketing", me deparei com um desafio significativo: 
 
 **Solução:**
 Diante dessa limitação, criei a Questão realizando algumas suposições:
-5.c) "Com base na categorização geográfica inferida para os canais de tráfego (Orgânico para clientes de SP; Social para clientes de MG, RJ, PR e MS; Pago para os demais estados), qual segmento de tráfego apresenta o maior volume de vendas em termos de valor financeiro?"
+
+5- C) "Com base na categorização geográfica inferida para os canais de tráfego (Orgânico para clientes de SP; Social para clientes de MG, RJ, PR e MS; Pago para os demais estados), qual segmento de tráfego apresenta o maior volume de vendas em termos de valor financeiro?"
 
 **Visualização:**
 
