@@ -45,12 +45,12 @@ Este estudo explora os picos de faturamento e volume de vendas, identificando pa
 
 | Ano | Métrica              | Melhor Mês | Valor/Unidades |
 | :-- | :------------------- | :--------- | :------------- |
-| 2016| Faturamento          | Outubro    | R$ 67.941,17   |
-| 2016| Unidades Vendidas    | Outubro    | 362 unidades   |
-| 2017| Faturamento          | Novembro   | R$ 1.550.848,82|
-| 2017| Unidades Vendidas    | Novembro   | 8.811 unidades |
-| 2018| Faturamento          | Maio       | R$ 1.531.971,40|
-| 2018| Unidades Vendidas    | Março      | 8.614 unidades |
+| 2016| Faturamento          | Outubro    | R$ 51.793,76   |
+| 2016| Unidades Vendidas    | Outubro    | 344 unidades   |
+| 2017| Faturamento          | Novembro   | R$ 1.153.779,01|
+| 2017| Unidades Vendidas    | Novembro   | 8.470 unidades |
+| 2018| Faturamento          | Maio       | R$ 1.171.843,38|
+| 2018| Unidades Vendidas    | Maio     | 8.131 unidades |
 
 ---
 
@@ -58,7 +58,7 @@ Este estudo explora os picos de faturamento e volume de vendas, identificando pa
 
 * **2016:** Os dados de 2016 apontam Outubro como o mês de desempenho superior, com os maiores valores observados tanto em faturamento quanto em unidades vendidas. Há uma correlação direta entre volume e receita neste período.
 * **2017:** Em 2017, registrou-se um crescimento substancial, com Novembro apresentando o pico em ambas as métricas – faturamento e volume de vendas. Este ano representa um ponto de inflexão significativo na performance geral.
-* **2018:** O ano de 2018 exibe uma particularidade: o maior volume de unidades vendidas ocorreu em Março, enquanto o pico de faturamento foi atingido em Maio. Essa divergência pode indicar transações com maior valor unitário em Maio ou dinâmicas distintas de mercado e precificação entre os meses.
+* **2018:** O ano de 2018 exibiu uma particularidade: o pico de faturamento foi atingido em Maio. Neste mesmo mês, ocorreu o maior volume de unidades vendidas para 2018, indicando  uma forte sinergia entre volume e receita. Embora não tenha sido o mês de maior quantidade vendida do período geral (Novembro de 2017), Maio foi o mês de maior faturamento.
 
 ---
 
