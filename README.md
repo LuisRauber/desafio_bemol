@@ -33,9 +33,9 @@ Abaixo, cada análise está estruturada com a questão escolhida, a visualizaç�
 
 **Visualização:**
 
-![Gráfico: Volume por Categoria](Gráficos/grafico-1a.png)
+![Gráfico: Volume por Categoria](Gráficos/grafico-1a-certo.png)
 
-![Gráfico: Volume por Categoria](Gráficos/grafico-1b.png)
+![Gráfico: Volume por Categoria](Gráficos/grafico-1b-certo.png)
 
 **Interpretação:**
 
